@@ -28,4 +28,22 @@ lança-las nos Bosses
 
 ### Doces:
 
+![Chiclete Azul](./candy1.png)
+![Urso de Goma Verde](./candy2.png)
+![Bala Rosa](./candy3.png)
+![Pirulito Vermelho](./candy4.png)
+
+
 ### Travessuras:
+
+![Aranha](./trav1.png)
+![Papel Higiénico](./trav2.png)
+![Pote Vazio](./trav3.png)
+![Dentadura do Vampiro](./trav4.png)
+
+### VIDA EXTRA:
+
+Use sua vida extra quando perder uma
+das três vidas ao comer uma travessura.
+
+![Vida Extra](./Live.png)
